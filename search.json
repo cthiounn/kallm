@@ -6,7 +6,8 @@
     "section": "",
     "text": "a. Métriques (biais, hallucinations, ...)\n\nb. Datasets\n\nc. Librairies/Frameworks (CODE!)\n\nd. Méthodologie (arbre de décision pour le décideur)",
     "crumbs": [
-      "Developpements - Evaluations"
+      "II-Developpements",
+      "Evaluations"
     ]
   },
   {
@@ -16,7 +17,8 @@
     "section": "",
     "text": "a. Métriques (biais, hallucinations, ...)\n\nb. Datasets\n\nc. Librairies/Frameworks (CODE!)\n\nd. Méthodologie (arbre de décision pour le décideur)",
     "crumbs": [
-      "Developpements - Evaluations"
+      "II-Developpements",
+      "Evaluations"
     ]
   },
   {
@@ -26,7 +28,8 @@
     "section": "",
     "text": "a. pipelines,\n\nb. presentations de modules avec RETEX, CODE!)",
     "crumbs": [
-      "Developpements - Retrieval Augmented Generation"
+      "II-Developpements",
+      "Retrieval Augmented Generation"
     ]
   },
   {
@@ -36,7 +39,8 @@
     "section": "",
     "text": "a. pipelines,\n\nb. presentations de modules avec RETEX, CODE!)",
     "crumbs": [
-      "Developpements - Retrieval Augmented Generation"
+      "II-Developpements",
+      "Retrieval Augmented Generation"
     ]
   },
   {
@@ -46,7 +50,8 @@
     "section": "",
     "text": "Guide du LLM\n\nPARTIE III. Deploiements\n\n\n1. Socle minimal pour un LLM (Camille Jérôme Conrad)\na. vLLM + docker ? (CODE!)",
     "crumbs": [
-      "Deploiements - Socle minimal"
+      "III-Deploiements",
+      "Socle minimal"
     ]
   },
   {
@@ -56,7 +61,8 @@
     "section": "",
     "text": "Guide du LLM\n\nPARTIE III. Deploiements\n\n\n3. Socle pour production (Camille Jérôme Conrad)\nOrchestrateur (CODE!)\n\nNvidia etc.",
     "crumbs": [
-      "Deploiements - Socle Production"
+      "III-Deploiements",
+      "Socle Production"
     ]
   },
   {
@@ -66,7 +72,8 @@
     "section": "",
     "text": "Vision high level de l'intérêt des LLMs\nLes cas d’usages des LLMs sont variés et avant de se lancer et innover grâce aux LLMs, il est nécessaire de bien identifier le besoin qui amène l’utilisation d’un LLM. Pour quoi faire ? Pour quels usages ? Est-ce pour de la génération de texte ? Pour de la classification ? L’objectif de ce chapitre est d’accompagner la réflexion autour de l’identification du besoin et de la collecte des données, avec les différents types de cas d’usages impliquant des LLMs.\nLes cas d’usages :\n\ncas d’usages autour de la génération de contenu\ncas d’usage autour de la classification et de la recherche de contenu\ncas d’usage autour des interactions conversationnelles",
     "crumbs": [
-      "Accompagnement - Besoins"
+      "I-Accompagnement",
+      "Besoins"
     ]
   },
   {
@@ -76,7 +83,8 @@
     "section": "",
     "text": "Vision high level de l'intérêt des LLMs\nLes cas d’usages des LLMs sont variés et avant de se lancer et innover grâce aux LLMs, il est nécessaire de bien identifier le besoin qui amène l’utilisation d’un LLM. Pour quoi faire ? Pour quels usages ? Est-ce pour de la génération de texte ? Pour de la classification ? L’objectif de ce chapitre est d’accompagner la réflexion autour de l’identification du besoin et de la collecte des données, avec les différents types de cas d’usages impliquant des LLMs.\nLes cas d’usages :\n\ncas d’usages autour de la génération de contenu\ncas d’usage autour de la classification et de la recherche de contenu\ncas d’usage autour des interactions conversationnelles",
     "crumbs": [
-      "Accompagnement - Besoins"
+      "I-Accompagnement",
+      "Besoins"
     ]
   },
   {
@@ -86,7 +94,8 @@
     "section": "",
     "text": "cas d’usage\ndes infras des modeles des datasets/open data ?",
     "crumbs": [
-      "Accompagnement - Exemples dans l'administration"
+      "I-Accompagnement",
+      "Exemples dans l'administration"
     ]
   },
   {
@@ -96,7 +105,8 @@
     "section": "",
     "text": "cas d’usage\ndes infras des modeles des datasets/open data ?",
     "crumbs": [
-      "Accompagnement - Exemples dans l'administration"
+      "I-Accompagnement",
+      "Exemples dans l'administration"
     ]
   },
   {
@@ -106,7 +116,8 @@
     "section": "",
     "text": "Comment embarquer les métiers/personnels moins techniques\nPoints d'attention à partager sur l'utilisation de tels outils",
     "crumbs": [
-      "Accompagnement - Acculturation"
+      "I-Accompagnement",
+      "Acculturation"
     ]
   },
   {
@@ -116,7 +127,8 @@
     "section": "",
     "text": "Comment embarquer les métiers/personnels moins techniques\nPoints d'attention à partager sur l'utilisation de tels outils",
     "crumbs": [
-      "Accompagnement - Acculturation"
+      "I-Accompagnement",
+      "Acculturation"
     ]
   },
   {
@@ -126,7 +138,8 @@
     "section": "",
     "text": "a. Environnementaux (poids de l’entraînement, poids de l’utilisation)\n\nb. Légaux (RGPD, chartes de l’IA, IA Act, ...)\n\nc. Sécurité (Renvoyer vers le guide de l’ANSSI)",
     "crumbs": [
-      "Accompagnement - Impacts"
+      "I-Accompagnement",
+      "Impacts"
     ]
   },
   {
@@ -136,7 +149,8 @@
     "section": "",
     "text": "a. Environnementaux (poids de l’entraînement, poids de l’utilisation)\n\nb. Légaux (RGPD, chartes de l’IA, IA Act, ...)\n\nc. Sécurité (Renvoyer vers le guide de l’ANSSI)",
     "crumbs": [
-      "Accompagnement - Impacts"
+      "I-Accompagnement",
+      "Impacts"
     ]
   },
   {
@@ -167,7 +181,8 @@
     "section": "",
     "text": "Guide du LLM\n\nPARTIE III. Deploiements\n\n\n4. Infras dispos pour l’administration (Thibault Katia)\nSSP Cloud (Onyxia)\n\nCloud PI\n\nClouds privés (SECNUMCLOUD, Sens?)\n\n(NuboNyxia à terme)",
     "crumbs": [
-      "Deploiements - Infrastructures dans l'administration"
+      "III-Deploiements",
+      "Infrastructures dans l'administration"
     ]
   },
   {
@@ -177,7 +192,8 @@
     "section": "",
     "text": "Guide du LLM\n\nPARTIE III. Deploiements\n\n\n2. Socle avancé (Camille Jérôme Conrad)\nOptimisation, Monitoring, UX/UI (CODE!)",
     "crumbs": [
-      "Deploiements - Socle avancé"
+      "III-Deploiements",
+      "Socle avancé"
     ]
   },
   {
@@ -187,7 +203,8 @@
     "section": "",
     "text": "a. Architectures principales LLM\n\nb. Méthodes de fine-tuning  (Conrad)\n\nc. Prompt engineer (lien vers prompt guide)\n\nd. Quoi faire quand ? (arbre de décision)",
     "crumbs": [
-      "Developpements - Revue technique des LLM"
+      "II-Developpements",
+      "Revue technique des LLM"
     ]
   },
   {
@@ -197,7 +214,8 @@
     "section": "",
     "text": "a. Architectures principales LLM\n\nb. Méthodes de fine-tuning  (Conrad)\n\nc. Prompt engineer (lien vers prompt guide)\n\nd. Quoi faire quand ? (arbre de décision)",
     "crumbs": [
-      "Developpements - Revue technique des LLM"
+      "II-Developpements",
+      "Revue technique des LLM"
     ]
   }
 ]
